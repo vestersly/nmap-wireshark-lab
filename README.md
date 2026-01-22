@@ -57,3 +57,5 @@ These skills are directly applicable to:
 
 ```bash
 sudo nmap -sS -sV 10.10.10.19
+
+This project is intentionally kept concise and serves as a reference lab for network-level security understanding.
